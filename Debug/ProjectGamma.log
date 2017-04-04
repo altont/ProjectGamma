@@ -1,0 +1,10 @@
+﻿  ProjectGamma.cpp
+c:\users\alton\documents\me 493\projectgamma\projectgamma\projectgamma.cpp(67): warning C4018: '<': signed/unsigned mismatch
+c:\users\alton\documents\me 493\projectgamma\projectgamma\projectgamma.cpp(205): warning C4018: '<': signed/unsigned mismatch
+c:\users\alton\documents\me 493\projectgamma\projectgamma\projectgamma.cpp(219): warning C4018: '<': signed/unsigned mismatch
+c:\users\alton\documents\me 493\projectgamma\projectgamma\projectgamma.cpp(246): warning C4018: '<': signed/unsigned mismatch
+c:\users\alton\documents\me 493\projectgamma\projectgamma\projectgamma.cpp(266): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\alton\documents\me 493\projectgamma\projectgamma\projectgamma.cpp(392): warning C4018: '<': signed/unsigned mismatch
+c:\users\alton\documents\me 493\projectgamma\projectgamma\projectgamma.cpp(398): warning C4018: '<': signed/unsigned mismatch
+  ProjectGamma.vcxproj -> C:\Users\Alton\Documents\ME 493\ProjectGamma\Debug\ProjectGamma.exe
+  ProjectGamma.vcxproj -> C:\Users\Alton\Documents\ME 493\ProjectGamma\Debug\ProjectGamma.pdb (Full PDB)
